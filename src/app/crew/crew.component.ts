@@ -45,7 +45,5 @@ export class CrewComponent implements OnInit {
     }
     return false;
   }
-  setMemberHovered(candidate: object) {
-    this.hoveredCandidate = candidate;
-  }
+  
 }
